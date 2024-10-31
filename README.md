@@ -3,7 +3,7 @@
 Hello! My name is Andrés, but you can call me Andrew if it's comfortable for you, I don't mind. I'm a software engineer. I am currently expanding my knowledge by studying Rust, C++ and Go, among some other things. I have experience with Python, Flask, and SQLite3, and I’m always eager to dive into new technologies.
 
 ## 🖥Technologies I know
-[![My Skills](https://skillicons.dev/icons?i=C,python,flask,go,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,flask,go,sqlite)](https://skillicons.dev)
 ## 🌱 Technologies I am trying to master
 [![My Skills](https://skillicons.dev/icons?i=rust,cpp,go,rocket)](https://skillicons.dev)
 ## 🧰 Tools I use
