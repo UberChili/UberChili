@@ -8,7 +8,7 @@ My name is Andrés, but you can call me Andrew if it's comfortable for you, I do
 [![My Skills](https://skillicons.dev/icons?i=c,rust,cpp,go,sqlite,python,flask)](https://skillicons.dev)
 <!-- ## 🌱 Technologies I am trying to master -->
 ## Technologies I am trying to master
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,odin)](https://skillicons.dev)
 <!-- ## 🧰 Tools I use -->
 ## Tools I use
 [![My Skills](https://skillicons.dev/icons?i=arch,emacs,git,github,neovim)](https://skillicons.dev)
